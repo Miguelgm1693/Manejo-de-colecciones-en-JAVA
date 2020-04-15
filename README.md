@@ -1,4 +1,4 @@
-# Manejo-de-colecciones-en-JAVA
+# Manejo de colecciones en JAVA
 Resumen sobre las colecciones de Java
 
 ## ¿Que es una colección en Java?
