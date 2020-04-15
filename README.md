@@ -94,6 +94,16 @@ En Map<E>:
   - Ordenar y desordenar
   - Búsqueda
   - Operaciones: max/min, la frecuencia...
+  
+  
+#### Librerias de colecciones de terceros
+
+Las más usadas serían:
+
+  - Guava de google
+  - Eclipse Collections
+  - Apache commons Collections
+  
 
   
   
