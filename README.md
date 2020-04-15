@@ -1,10 +1,10 @@
 # Manejo-de-colecciones-en-JAVA
 Resumen sobre las colecciones de Java
 
-# ¿Que es una colección en Java?
+## ¿Que es una colección en Java?
 Se puede decir que las colecciones en Java en un contenedor de elementos de un solo tipo, en el cual podemos recoger varios objetos. Estos suelen ser del mismo tipo, se podría decir que tienen un padre en común.
 
-# Su uso:
+### Su uso:
 El poder almacenar, recuperar y manipular datos de una manera conjunta.
 Suelen representar elementos que forman grupos naturales tanto en la realidad como en el mundo del software.
 Estas colecciones nos van a ayudar a tratar problemas del mundo real.
